@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-of-Automobile-data
+# Exploratory-Data-Analysis-Projects-in-Python
 
 Hey there!  Welcome to this repository which hosts a few exploratory data analysis projects I have worked on so far.
 
