@@ -6,5 +6,8 @@ I should declare at this point that I am myself still learning as I complete mor
 
 Here is a list of python projects in this repository. You are welcome to contribute to the code and use it for your own projects.
 
+
 | S/No. | Project Name | Description |
+|-------|--------------|-------------|
+| 1     | Exploratory_Data_Analysis_of_Immigration_Data | Analysis of the trend of immigrants to Canada from 1980 to 2013.
 
