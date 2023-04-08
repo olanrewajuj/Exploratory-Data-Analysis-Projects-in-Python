@@ -9,5 +9,6 @@ Here is a list of python projects in this repository. You are welcome to contrib
 
 | S/No. | Project Name | Description |
 |-------|--------------|-------------|
-| 1     | Exploratory_Data_Analysis_of_Immigration_Data | Analysis of the trend of immigrants to Canada from 1980 to 2013.
+| 1     | Exploratory_Data_Analysis_of_Immigration_Data | Analysis of the trend of immigrants to Canada from 1980 to 2013.|
+| 2     | Exploratory_Data_Analysis_for_Automobile_Data.ipynb | Analysis of tech-specs of vehicles (e.g. engine size, transmission, MPG, etc.) to determine the appropriate features to use to predict a label such as the price of the vehicle. |
 
