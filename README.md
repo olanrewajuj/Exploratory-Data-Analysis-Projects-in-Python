@@ -12,3 +12,5 @@ Here is a list of python projects in this repository. You are welcome to contrib
 | 2     | [Exploratory_Data_Analysis_for_Automobile_Data](https://github.com/olanrewajuj/Exploratory-Data-Analysis-Projects-in-Python/blob/867d0bd8df45be550394bda245cbcfb223a59a96/Exploratory_Data_Analysis_for_Automobile_Data.ipynb) | Analysis of tech-specs of vehicles (e.g. engine size, transmission, MPG, etc.) to determine the appropriate features to use to predict a label such as the price of the vehicle. |
 | 3     | [Customer_Segmentation_Using_K-Means_Clustering](https://github.com/olanrewajuj/Exploratory-Data-Analysis-Projects-in-Python/blob/867d0bd8df45be550394bda245cbcfb223a59a96/Exploratory_Data_Analysis_for_Automobile_Data.ipynb) | A self-study hands-on practice to understand K-Means clustering and one of its many use cases - customer segmentation. |
 
+https://github.com/olanrewajuj/Exploratory-Data-Analysis-Projects-in-Python/blob/867d0bd8df45be550394bda245cbcfb223a59a96/Exploratory_Data_Analysis_for_Automobile_Data.ipynb
+
